@@ -16,7 +16,7 @@ function App() {
         <input type="email" name="email" required />
       </div>
       <div className="field">
-        <label for="message">Name</label>
+        <label for="message">Message</label>
         <textarea name="message" rows="3"></textarea>
       </div>
       <input type="submit" value="Send" />
